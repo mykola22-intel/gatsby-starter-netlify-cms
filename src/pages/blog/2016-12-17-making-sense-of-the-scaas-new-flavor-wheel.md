@@ -14,7 +14,7 @@ tags:
 
 ![](/img/coffee-gear.png)
 
-![]()
+**New text**
 
 ![flavor wheel](/img/flavor_wheel.jpg)
 
